@@ -3,7 +3,7 @@ Ben Eater의 SAP-1 컴퓨터의 개선판입니다.
 
 **기본 로지심이 아닌 [로지심 에볼루션](https://github.com/logisim-evolution/logisim-evolution)으로 실행하세요!**
 
-
+![ASC1](https://github.com/Aurorasphere/ASC-Prototype/assets/52054335/af8a7700-efd9-4219-a42f-d3241b7ca91f)
 
 **SAP-1과 비교하여 달라진 점은 다음과 같습니다.**
 - 더 많은 산술논리연산 가능.
